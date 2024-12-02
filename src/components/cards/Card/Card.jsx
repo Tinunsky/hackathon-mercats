@@ -17,7 +17,7 @@ const CardContainer = styled.section`
   height: 200px; 
   padding: 10px;
   box-sizing: border-box;
-
+  cursor: pointer;
 `;
 
 const CardImage = styled.img`
