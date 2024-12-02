@@ -19,24 +19,24 @@ La **demostración** está disponible en:
 https://mercaprop-app.netlify.app/
 
 Funcionalidades:
-• Listado, creación y actualización de mercados y ferias.
-• Importación masiva de datos a través de JSON.
+* Listado, creación y actualización de mercados y ferias.
+* Importación masiva de datos a través de JSON.
 
 # Frontend
 
 El **Frontend** está diseñado con **React** para ofrecer una interfaz visual y fácil de usar. Componentes principales:
-• Lista de mercados con tarjetas individuales y detalles en un modal.
-• Mapa interactivo con la ubicación de los mercados.
-• Filtro de búsqueda con un input para buscar eventos concretos por nombre.
+* Lista de mercados con tarjetas individuales y detalles en un modal.
+* Mapa interactivo con la ubicación de los mercados.
+* Filtro de búsqueda con un input para buscar eventos concretos por nombre.
 
 # Data Analyst
 
 El **Data Analyst** trabajó con datos de:
-•Mercados y ferias callejeras.
-•Mercados municipales.
+*Mercados y ferias callejeras.
+*Mercados municipales.
 
 ## Datos clave:
 
-•Nombre del mercado, dirección, barrio, distrito, teléfono, coordenadas (latitud/longitud) y tipo de mercado (feria/mercado municipal).
+*Nombre del mercado, dirección, barrio, distrito, teléfono, coordenadas (latitud/longitud) y tipo de mercado (feria/mercado municipal).
 
 Los datos se procesan y se cargan en el backend en formato **JSON**.
