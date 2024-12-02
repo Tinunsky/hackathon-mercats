@@ -10,10 +10,10 @@
 ===
 
 1. Clona el repositorio: 
-git clone https://github.com/ivanlegranbizarro/CrackathonersItAcademy.git
+git clone https://github.com/Tinunsky/hackathon-mercats.git
 
 2. Accede al directorio del proyecto: 
-cd hachathon-mercats
+cd hackathon-mercats
 
 3. Instala las dependencias: 
 composer install
