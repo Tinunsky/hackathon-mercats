@@ -37,6 +37,6 @@ El **Data Analyst** trabajó con datos de:
 
 ## Datos clave:
 
-*Nombre del mercado, dirección, barrio, distrito, teléfono, coordenadas (latitud/longitud) y tipo de mercado (feria/mercado municipal).
+* Nombre del mercado, dirección, barrio, distrito, teléfono, coordenadas (latitud/longitud) y tipo de mercado (feria/mercado municipal).
 
 Los datos se procesan y se cargan en el backend en formato **JSON**.
